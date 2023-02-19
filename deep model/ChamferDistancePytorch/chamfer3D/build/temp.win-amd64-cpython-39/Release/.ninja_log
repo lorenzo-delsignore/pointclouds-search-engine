@@ -1,0 +1,4 @@
+# ninja log v5
+0	7880	6837551113533634	C:/Users/alexa/Desktop/Progetto/Point-Cloud-Autoencoder-master/ChamferDistancePytorch/chamfer3D/build/temp.win-amd64-cpython-39/Release/chamfer3D.obj	2cd4c3dda515db5
+8	6849	6837554182396390	C:/Users/alexa/Desktop/Progetto/Point-Cloud-Autoencoder-master/ChamferDistancePytorch/chamfer3D/build/temp.win-amd64-cpython-39/Release/chamfer_cuda.obj	7c35568a455ac7d3
+16	7761	6837554191376351	C:/Users/alexa/Desktop/Progetto/Point-Cloud-Autoencoder-master/ChamferDistancePytorch/chamfer3D/build/temp.win-amd64-cpython-39/Release/chamfer3D.obj	f4f99f3bb17347a2

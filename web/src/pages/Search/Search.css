@@ -1,0 +1,52 @@
+.app__search {
+  padding: 0 20px;
+  padding-top: 20px;
+}
+
+.app__search .app__logo {
+  height: 45px;
+  margin-right: 20px;
+  pointer-events: none;
+}
+
+.app__search .search-box {
+  width: 100%;
+}
+
+.app__search .app__header {
+  display: flex;
+  padding-bottom: 20px;
+  align-items: center;
+}
+
+.no-result {
+  color: white;
+  display: flex;
+}
+
+.no-result__icon {
+  width: 10%;
+}
+
+.page-loader {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-result {
+  gap: 10px;
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+
+.search-result .search-item {
+  
+}
+
+.search-item .plotly .svg-container {
+  /* width: 16.66% !important; */
+  /* height: 250px !important; */
+}

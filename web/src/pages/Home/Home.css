@@ -1,0 +1,15 @@
+.app__home {
+  padding-top: 10%;
+  text-align: center;
+}
+
+.app__home .app__logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.app__home .search-box {
+  max-width: 650px;
+  margin: 0 auto;
+  width: 70%;
+}
