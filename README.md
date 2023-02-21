@@ -10,7 +10,7 @@ The backend is built using Flask as a microservice, which provides public APIs, 
 The dataset used to train the models is ShapeNet, which is a large-scale dataset of 3D shapes (ref. https://shapenet.org/).
 
 # Dataset loading
-Apache Spark was used for data engineering to load the dataset (.parequet files) and perform data exploration and data visualization.
+Apache Spark was used for data engineering to load the dataset (.parquet files) and perform data exploration and data visualization.
 
 # Models
 
