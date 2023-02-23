@@ -1,6 +1,6 @@
 # 3D-PointClouds-ShapeCompletion-and-Classification
 
-The goal of this project is to build a web application, that acts as a search engine for 3D objects, allowing users to interact with our deep learning network and retrieve similar objects.
+The goal of this project is to build a web application, that acts as a search engine for 3D objects, allowing users to interact with a deep learning network and retrieve similar objects.
 
 The application is built with the React.js framework and communicates with the backend using APIs. 
 
